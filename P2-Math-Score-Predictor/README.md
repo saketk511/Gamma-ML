@@ -10,6 +10,6 @@ To open flask app: python app.py
 Open a web browser (e.g., Chrome, Firefox).
 Go to http://127.0.0.1:5000/ or http://localhost:5000/.
 
-
+See the UI in Input and Output images
 
 
